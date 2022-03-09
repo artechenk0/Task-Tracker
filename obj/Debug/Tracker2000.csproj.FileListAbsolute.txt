@@ -1,0 +1,62 @@
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.Form1.resources
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.Properties.Resources.resources
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Tracker2000\bin\Debug\Tracker2000.exe.config
+C:\Users\Student\Desktop\Tracker2000\bin\Debug\Tracker2000.exe
+C:\Users\Student\Desktop\Tracker2000\bin\Debug\Tracker2000.pdb
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.exe
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.pdb
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.Panel_1.resources
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.UserControl1.resources
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.UserControl2.resources
+C:\Users\Student\Desktop\Tracker2000\obj\Debug\Tracker2000.UserControl3.resources
+C:\Users\artec\Desktop\Tracker2000\bin\Debug\Tracker2000.exe.config
+C:\Users\artec\Desktop\Tracker2000\bin\Debug\Tracker2000.exe
+C:\Users\artec\Desktop\Tracker2000\bin\Debug\Tracker2000.pdb
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.AssemblyReference.cache
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.Properties.Resources.resources
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.GenerateResource.cache
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.CoreCompileInputs.cache
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.exe
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.pdb
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.Main.resources
+C:\Users\artec\Desktop\Tracker2000\obj\Debug\Tracker2000.UserInterface.resources
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\bin\Debug\Tracker2000.exe.config
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\bin\Debug\Tracker2000.exe
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\bin\Debug\Tracker2000.pdb
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\bin\Debug\ConvertXML.dll
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\bin\Debug\ConvertXML.pdb
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.csproj.AssemblyReference.cache
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.csproj.SuggestedBindingRedirects.cache
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.Main.resources
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.Properties.Resources.resources
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.UserInterface.resources
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.csproj.GenerateResource.cache
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.csproj.CoreCompileInputs.cache
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.csproj.CopyComplete
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.exe
+C:\Users\NieEo\OneDrive\Рабочий стол\Новая папка\Tracker2000\obj\Debug\Tracker2000.pdb
+C:\Users\Danil\Desktop\т а\Tracker2000\bin\Debug\Tracker2000.exe.config
+C:\Users\Danil\Desktop\т а\Tracker2000\bin\Debug\Tracker2000.exe
+C:\Users\Danil\Desktop\т а\Tracker2000\bin\Debug\Tracker2000.pdb
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.Main.resources
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.Properties.Resources.resources
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.UserInterface.resources
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.exe
+C:\Users\Danil\Desktop\т а\Tracker2000\obj\Debug\Tracker2000.pdb
+C:\Users\Danil\Desktop\Tracker2000\bin\Debug\Tracker2000.exe.config
+C:\Users\Danil\Desktop\Tracker2000\bin\Debug\Tracker2000.exe
+C:\Users\Danil\Desktop\Tracker2000\bin\Debug\Tracker2000.pdb
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.Main.resources
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.Properties.Resources.resources
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.UserInterface.resources
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.exe
+C:\Users\Danil\Desktop\Tracker2000\obj\Debug\Tracker2000.pdb
